@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>물건 찾기</title>
+    <title>물건 이름/용도 맞추기</title>
     <style>
         .container {
             width: 50%;
